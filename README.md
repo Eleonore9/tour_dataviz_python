@@ -1,4 +1,4 @@
-# A tour of data viz in Python
+# A tour of data viz in Python 📊🐍📉
 
 An introduction to the diverse tools available to visualise data with Python.
 
